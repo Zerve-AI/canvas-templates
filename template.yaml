@@ -1,0 +1,16 @@
+# Directory Structure
+- folder:
+    name: pandas
+    files:
+      - pandas_cookbook_examples.ipynb
+      - pandas_create_columns.ipynb
+      - pandas_intro.ipynb
+      - pandas_reshape.ipynb
+      - pandas_subset.ipynb
+    subfolders:
+      - folder:
+          name: data
+          files:
+            - airquality_long.csv
+            - airquality.csv
+            - titanic.csv
