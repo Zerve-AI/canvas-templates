@@ -14,3 +14,73 @@
             - airquality_long.csv
             - airquality.csv
             - titanic.csv
+- folder:
+    name: sklearn
+    files:
+      - classification_decisiontree.ipynb
+      - classification_xgboost.ipynb
+      - regression_Random_Forest.ipynb
+      - regression_linear_regression.ipynb
+    subfolders:
+      - folder:
+          name: data
+          subfolders:
+            - folder:
+                name: classification
+                files:
+                  - titanic.csv
+            - folder:
+                name: regression
+                files:
+                  - housing.csv
+- folder:
+    name: matplotlib
+    files:
+      - Quick_Start.ipynb
+      - bar_colors.ipynb
+      - bar_label_demo.ipynb
+      - bar_stacked.ipynb
+      - bar_stacked.ipynb
+      - barh.ipynb
+      - broken_barh.ipynb
+      - capstyle.ipynb
+      - categorical_variables.ipynb
+      - csd_demo.ipynb
+      - curve_error_band.ipynb
+      - errorbar_limits_simple.ipynb
+      - errorbar_subsample.ipynb
+      - eventcollection_demo.ipynb
+      - eventplot_demo.ipynb
+      - fill.ipynb
+      - fill_between_alpha.ipynb
+      - fill_between_demo.ipynb
+      - fill_betweenx_demo.ipynb
+      - filled_step.ipynb
+      - hat_graph.ipynb
+      - horizontal_barchart_distribution.ipynb
+      - joinstyle.ipynb
+      - line_demo_dash_control.ipynb
+      - lines_with_ticks_demo.ipynb
+      - linestyles.ipynb
+      - marker_reference.ipynb
+      - markevery_demo.ipynb
+      - masked_demo.ipynb
+      - multicolored_line.ipynb
+      - multivariate_marker_plot.ipynb
+      - psd_demo.ipynb
+      - scatter_custom_symbol.ipynb
+      - scatter_demo2.ipynb
+      - scatter_hist.ipynb
+      - scatter_masked.ipynb
+      - scatter_star_poly.ipynb
+      - scatter_with_legend.ipynb
+      - simple_plot.ipynb
+      - span_regions.ipynb
+      - spectrum_demo.ipynb
+      - stackplot_demo.ipynb
+      - stairs_demo.ipynb
+      - stem_plot.ipynb
+      - step_demo.ipynb
+      - timeline.ipynb
+      - vline_hline_demo.ipynb
+      - xcorr_acorr_demo.ipynb
