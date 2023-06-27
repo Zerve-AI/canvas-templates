@@ -84,3 +84,16 @@
       - timeline.ipynb
       - vline_hline_demo.ipynb
       - xcorr_acorr_demo.ipynb
+- folder:
+    name: plotly
+    files:
+      - distributions.ipynb
+      - 3d_coordinates.ipynb
+      - images_and_heatmaps.ipynb
+      - outline_maps.ipynb
+      - pie_chart_with_plotly_express.ipynb
+      - polar_coordinates.ipynb
+      - scatter_line_area_and_bar_charts.ipynb
+      - ternary_coordinates.ipynb
+      - tile_maps.ipynb
+      
