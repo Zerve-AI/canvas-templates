@@ -96,4 +96,18 @@
       - scatter_line_area_and_bar_charts.ipynb
       - ternary_coordinates.ipynb
       - tile_maps.ipynb
+- folder:
+    name: beautiful_soup
+    files:
+      - advanced-parser-customization.ipynb
+      - comparing-objects-for-equality.ipynb
+      - modifying-the-tree.ipynb
+      - navigating-the-tree.ipynb
+      - quick-start.ipynb
+- folder:
+    name: tensorflow
+    files:
+      - basics.ipynb
+
+
       
